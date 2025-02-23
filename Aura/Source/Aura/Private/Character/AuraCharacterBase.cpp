@@ -1,3 +1,6 @@
+// Copyright Siestaaaaaa
+
+
 #include "Character/AuraCharacterBase.h"
 
 
