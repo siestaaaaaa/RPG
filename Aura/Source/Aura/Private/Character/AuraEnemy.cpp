@@ -24,3 +24,11 @@ void AAuraEnemy::UnHighlightActor()
 {
 	bHighlighted = false;
 }
+
+void AAuraEnemy::BeginPlay()
+{
+	Super::BeginPlay();
+
+	check(AbilitySystemComponent);
+	AbilitySystemComponent->InitAbilityActorInfo(this, this);
+}
