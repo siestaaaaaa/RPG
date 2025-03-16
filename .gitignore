@@ -1,8 +1,8 @@
-Aura/Binaries
-Aura/DerivedDataCache
-Aura/Intermediate
-Aura/Saved
-Aura/Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
 
 *.vscode
 *.vs
