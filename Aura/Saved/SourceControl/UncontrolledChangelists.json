@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GithubRepo/Aura/Aura/Content/Blueprints/Actor/BP_HealthPotion.uasset",
+				"E:/GithubRepo/Aura/Aura/Content/Maps/StartupMap.umap",
 				"E:/GithubRepo/GAS/Aura/Content/Assets/Characters/Aura/Animations/IdleWalkRun.uasset",
 				"E:/GithubRepo/GAS/Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset",
 				"E:/GithubRepo/GAS/Aura/Content/Blueprints/Character/ABP_Enemy.uasset",
